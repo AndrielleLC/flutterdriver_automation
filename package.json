@@ -1,0 +1,27 @@
+{
+  "name": "flutter-testing",
+  "version": "1.0.0",
+  "description": "A Sample Flutter project showing Bloc Architecture and BDD Testing using Gherkins plugin.",
+  "main": "report.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "cucumber-html-reporter": "^5.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maheshmnj/flutter-Testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maheshmnj/flutter-Testing/issues"
+  },
+  "homepage": "https://github.com/maheshmnj/flutter-Testing#readme"
+}
